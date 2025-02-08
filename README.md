@@ -40,7 +40,7 @@ sudo apt install docker.io -y
 ```
 docker --version
 ```
-#### bu aşamadan sonra terminal açık kalsın ve biz kendi bilgisyarımızıa geçip diğer işlemlere devam edelim.
+#### bu aşamadan sonra terminal açık kalsın ve biz kendi bilgisyarımıza geçip diğer işlemlere devam edelim.
 ```
 https://mobaxterm.mobatek.net/download-home-edition.html
 adresine gidip pc ye indirelim ve çalıştıralım. oldukça basit bir kurulumu var.
