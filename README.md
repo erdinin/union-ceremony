@@ -44,5 +44,10 @@ docker --version
 ```
 https://mobaxterm.mobatek.net/download-home-edition.html
 adresine gidip pc ye indirelim ve çalıştıralım. oldukça basit bir kurulumu var.
+kurulum tamamlandıktan sonra. sol üstten 'session' a tıklayıp açılan pencerede 'RDP' ye basacaksınız. 
+remote host kısmı = ip adresiniz
+username kısmı sunucu = root
+port = 3389
+şeklinde olacak ve ok a basıp bağlanın.
 ```
-![MobaXterm RDP Bağlantı Ayarları](https://i.imgur.com/s0m3C0d3.png)
+
