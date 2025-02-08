@@ -1,2 +1,4 @@
 ## union-ceremony
-'sudo apt update && sudo apt upgrade -y'
+güncelleme ve masaüstü ortamının kurulması
+```sudo apt update && sudo apt upgrade -y```
+```apt-cache search xfce4```
