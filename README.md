@@ -45,3 +45,4 @@ docker --version
 https://mobaxterm.mobatek.net/download-home-edition.html
 adresine gidip pc ye indirelim ve çalıştıralım. oldukça basit bir kurulumu var.
 ```
+![MobaXterm RDP Bağlantı Ayarları](https://i.imgur.com/s0m3C0d3.png)
