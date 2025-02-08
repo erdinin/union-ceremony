@@ -50,4 +50,11 @@ username kısmı sunucu = root
 port = 3389
 şeklinde olacak ve ok a basıp bağlanın.
 ```
-
+#### application finder a girip mozilla yı bulun ve açın. tarayıcıdan aşağıdaki linke gidin.
+```
+https://ceremony.union.build
+```
+```
+google veya github ile bağlanın. linux seçin ve copy command a basın. verdiği kod ile terminalinize gidip yapıştırın. kurulum tamamlandıktan sonra ctrl+a+d tuşları ile screen den çıkın. tekrar geri mobaxterm e dönüp address ve generate key kısımlarını tamamlayıp devam edin. generate key dedikten sonra mozilla-downloads kısımında keyimizi bulabiliriz.
+```
+#### herşey doğru yapıldıysa bir sıraya girmiş olmanız gerekiyor. 
